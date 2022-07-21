@@ -63,6 +63,7 @@ export default class Section_card extends Component {
                   />
                   <div class="card-body">
                     <h5 class="card-title">คอนเวเยอร์ Conveyor</h5>
+                    <h1>test test test test test</h1>
                     <p class="card-text">
                       ผู้ผลิต จำหน่าย และนำเข้า
                       เครื่องจักรอุปกรณ์และนวัตกรรมด้านการขนส่งลำเลียง
