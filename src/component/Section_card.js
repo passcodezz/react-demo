@@ -8,7 +8,6 @@ import React, { Component } from "react";
 import Slider from "react-slick";
 
 export default class Section_card extends Component {
-  
   render() {
     var settings = {
       dots: true,
@@ -51,7 +50,7 @@ export default class Section_card extends Component {
           {/* align-equal align-center row-cols-1 row-cols-md-4 g-4 */}
 
           <Slider {...settings}>
-          {/* <div class="col-lg-3 col-md-6 p-3"> */}
+            {/* <div class="col-lg-3 col-md-6 p-3"> */}
             <div class="col-lg-3 col-md-6 ">
               <a href="/Products1">
                 <div class="card">
@@ -63,7 +62,6 @@ export default class Section_card extends Component {
                   />
                   <div class="card-body">
                     <h5 class="card-title">คอนเวเยอร์ Conveyor</h5>
-                    <h1>test test test test test</h1>
                     <p class="card-text">
                       ผู้ผลิต จำหน่าย และนำเข้า
                       เครื่องจักรอุปกรณ์และนวัตกรรมด้านการขนส่งลำเลียง
@@ -242,7 +240,6 @@ export default class Section_card extends Component {
                     </p>
                   </div>
                 </div>
-              
               </a>
             </div>
           </Slider>
