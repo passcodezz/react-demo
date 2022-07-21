@@ -1,0 +1,22 @@
+.content {
+  background-color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.containersitemaps h1 {
+  text-align: center;
+}
+
+.containersitemaps .card {
+  height: auto;
+  box-shadow: -1px 8px 20px -11px rgb(0 0 0 / 75%);
+}
+
+.containersitemaps a {
+  color: black;
+}
+
+.containersitemaps a:hover {
+  color: rgb(158, 58, 195);
+}
