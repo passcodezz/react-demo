@@ -48,6 +48,7 @@
   margin: auto;
   box-shadow: -1px 10px 10px -11px rgb(0 0 0 / 75%);
   padding: 5rem;
+  object-fit:scale-down;
 }
 
 .aboutpage_card .card:hover {

@@ -16,3 +16,7 @@
 .card a {
   text-decoration: none;
 }
+.content .imgs{
+  object-fit:scale-down;
+  /* -ms-flex-item-align: center; */
+}

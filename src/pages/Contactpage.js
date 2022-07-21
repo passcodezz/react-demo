@@ -123,9 +123,9 @@ const Contactpage = () => {
 
                 <img
                   width="100%"
-                  height="50%"
+                  height="100%"
                   src="images/map.jpg"
-                  className="d-inline-block align-top"
+                  className="imgs"
                   alt="logo"
                 />
 
